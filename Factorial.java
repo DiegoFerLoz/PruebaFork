@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Factorial {
 
 	public static void main(String[] args) {
-		// Pide un número y calcula la suma de los factoriales hasta ese numero (incluido).
+		// Pide un número y calcula la suma de los factoriales hasta ese numero (incluido). MODIFICACION
 		Scanner src = new Scanner(System.in);
 		System.out.print("Dame un número para calcular factoriales: ");
 		int numero = src.nextInt();
