@@ -20,6 +20,6 @@ public class Factorial {
 			System.out.println("El factorial de "+i+" es: "+ factor);
 			suma = suma + factor;
 		}
-		System.out.println("La suma total es: "+suma);
+		System.out.println("La suma total es: "+suma);//hola 
 	}
 }
